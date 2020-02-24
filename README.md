@@ -5,32 +5,32 @@ Greeting from Technocolabs. We are very glad to contacts you for our non-profit 
 
 # # Day 0
 
-[x] Introduction.
+- [x] Introduction.
 
-[x] Joined Progate
+- [x] Joined Progate
 
-[x] What
 
-[x] What is Version Control?
+
+- [x] What is Version Control?
 
 - [x] What is Distributed Version Control?
 
-[x] What is Centralised Version Control?
+- [x] What is Centralised Version Control?
 
 ## Day 1
 
-[x] Git Workspace and Installation
+- [x] Git Workspace and Installation
 
-[x] Git Configuration
+- [x] Git Configuration
 
-[x] Git Command Initialization
+- [x] Git Command Initialization
 
-[x] Three Stage Architecture of Git
+- [x] Three Stage Architecture of Git
 
-[x] Tracking our First Project
+- [x] Tracking our First Project
 
 ## Day 2
 
-is Git?
 
-[x] Assignment 1
+
+- [x] Assignment 1
