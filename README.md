@@ -3,7 +3,7 @@ Greeting from Technocolabs. We are very glad to contacts you for our non-profit 
 
 # 100-Days-of-Code
 
-# # Day 0
+## Day 0
 
 - [x] Introduction.
 
